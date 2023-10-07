@@ -27,9 +27,8 @@
 Hi 👋 
 
 I’m Jitendra, lead software engineer who specializes in back-end development using Java tech stack. I have experience leading, architecting and 
-developing web applications. Currently, I am working on migrating our monolithic architecture to microservices.
-
-I am learning Go (Golang) and exploring AWS, GCP.
+developing web applications.
+I am learning Go (Golang) and exploring AWS.
 
 ---
 
